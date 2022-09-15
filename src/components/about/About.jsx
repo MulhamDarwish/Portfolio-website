@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assets/LOGO.png'
+import ME from '../../assets/me.png'
 import {BsFillAwardFill} from 'react-icons/bs'
 import {FcDiploma1} from 'react-icons/fc'
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai'
@@ -21,17 +21,17 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <BsFillAwardFill className='about__card'/>
+              <BsFillAwardFill className='about__icon'/>
               <h5>Experience</h5>
               <small>2+ Years</small>
             </article>
             <article className='about__card'>
-              <FcDiploma1 className='about__card'/>
+              <FcDiploma1 className='about__icon'/>
               <h5>Diploma</h5>
               <small>Master Degree In Architecture</small>
             </article>
             <article className='about__card'>
-              <AiOutlineFundProjectionScreen className='about__card'/>
+              <AiOutlineFundProjectionScreen className='about__icon'/>
               <h5>Projects</h5>
               <small>9</small>
             </article>

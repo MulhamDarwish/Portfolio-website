@@ -33,18 +33,18 @@ header {
     content: "";
     width: 1px;
     height: 2rem;
-    background: var(--color-praimary);
+    background: var(--color-primary);
 }
 
 /* --------------------------------ME--------------------*/
 .me {
-    background: linear-gradient(var(--color-praimary), transparent);
+    background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 14rem 14rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
@@ -61,15 +61,15 @@ header {
 }
 
 /* ========================================MEDIA===========*/
-@media screen and (max-width: 1024px) {
-    header {
+@media only screen and (max-width: 1024px) {
+    .header {
         height: 68vh;
     }
 }
 
 
 /* ========================================MEDIA===========*/
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
     header {
         height: 100vh;
     }

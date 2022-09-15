@@ -13,7 +13,7 @@
 :root {
     --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
-    --color-praimary: #4db5ff;
+    --color-primary: #4db5ff;
     --color-primary-variant: rgba(77, 181, 255, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
@@ -23,7 +23,7 @@
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-sm: 90%;
 }
 
 html {
@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height:1.7;
-    background-image: url(../src/assets/bg-tex1.jpg);
+    background-image: url(../src/assets/bg1.jpg);
 }
 
 
@@ -63,7 +63,6 @@ h1{
 
 section {
     margin-top: 8rem;
-    height: 100vh;
 }
 
   section > h2, section > h5 {
@@ -72,7 +71,7 @@ section {
   }
 
 section > h2 {
-    color: var(--color-praimary);
+    color: var(--color-primary);
     margin-bottom: 3rem;
 }
 
@@ -131,7 +130,7 @@ img {
 /* ========================================MEDIA===========*/
 @media screen and (max-width: 600px) {
         .container {
-            width: var(--container-width-ms);
+            width: var(--container-width-sm);
         }
 
         section > h2{
