@@ -11,7 +11,7 @@
     background: linear-gradient(
         45deg,
         transparent,
-        var(--color-primary),
+        var(--color-primary-variant),
         transparent
         );
     display: grid;
@@ -36,7 +36,7 @@
 }
 
 .about__card {
-    background: var(--color-primary);
+    background: var(--color-primary-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
