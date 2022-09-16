@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from '../../assets/me1.jpg'
+import ME from '../../assets/me1.jpeg'
 import {BsFillAwardFill} from 'react-icons/bs'
 import {FcDiploma1} from 'react-icons/fc'
 import {AiOutlineFundProjectionScreen} from 'react-icons/ai'
