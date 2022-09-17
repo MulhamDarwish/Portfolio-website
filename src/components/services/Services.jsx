@@ -17,27 +17,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Mobile app design</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Web Design</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
-            </li>
-            <li>
-              <FiCheck className="service__icon" />
-              <p>1</p>
-            </li>
-            <li>
-              <FiCheck className="service__icon" />
-              <p>1</p>
-            </li>
-            <li>
-              <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>HMI Design</p>
             </li>
           </ul>
         </article>
@@ -50,27 +38,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Websites</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Responsive Design</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Web redesign</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Social Media Integration — Facebook, Twitter, Youtube, Google+, etc.</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Booking / Reservations / Availability System</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Portfolio Showcase</p>
             </li>
           </ul>
         </article>
@@ -83,23 +71,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Building Design</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Space Planning</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Site Planning</p>
             </li>
             <li>
               <FiCheck className="service__icon" />
-              <p>1</p>
-            </li>
-            <li>
-              <FiCheck className="service__icon" />
-              <p>1</p>
+              <p>Creative, Artistic & Technological Design</p>
             </li>
             <li>
               <FiCheck className="service__icon" />

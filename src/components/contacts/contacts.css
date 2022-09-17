@@ -22,7 +22,7 @@
 
 .contact__option:hover {
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-bg-variant);
 }
 
 .contact__option-icon {
@@ -48,8 +48,8 @@ textarea {
     width: 100%;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    background: transparent;
-    border: 2px solid var(--color-primary-variant);
+    background: var(--color-bg-variant);
+    border: 2px solid var(--colomary-variant);
     resize: none;
     color: var(--color-white);
 }
@@ -57,7 +57,7 @@ textarea {
 /* ====================MEDIA QUERIES (MEDIUM)===============*/
 @media screen and (max-width: 1024px) {
     .container.contact__container {
-        grid-template-column: 1fr;
+        grid-template-columns: 1fr;
         gap: 2rem;
     }
    

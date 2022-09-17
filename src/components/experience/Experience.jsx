@@ -17,42 +17,42 @@ const Experience = () => {
               <div>
               <h4>HTML/CSS</h4>
               </div>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
               <h4>React</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
               <h4>JavaScript</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
               <h4>Kubernetes</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
-              <h4>Prometheus</h4>
+              <h4>Python</h4>
               </div>
-              <small className="text-light">Experience</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
-              <h4>Adobe Ilistrator</h4>
+              <h4></h4>
               </div>
-              <small className="text-light">Experience</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
           </div>
         </div>
@@ -66,14 +66,14 @@ const Experience = () => {
               <div>
               <h4>Adobe Ilistrator</h4>
               </div>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
               <h4>Adobe Photoshop</h4>
               </div>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
@@ -87,21 +87,21 @@ const Experience = () => {
               <div>
               <h4>3DMax autodesk</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
-              <h4>Blender</h4>
+              <h4>Figma</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
             <article className="experience__details">
               <BsFillCheckSquareFill className="experience__details-icon" />
               <div>
               <h4>Unreal Engine</h4>
               </div>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">Knowledgeable</small>
             </article>
           </div>
         </div>

@@ -22,7 +22,7 @@ const Contacts = () => {
       <h2>Conteact</h2>
 
       <div className="container contact__container">
-        <div className="contact__option">
+        <div className="contact__options">
           <article className="contact__option">
             <MdEmail className="contact__option-icon" />  
             <h4>Email</h4>

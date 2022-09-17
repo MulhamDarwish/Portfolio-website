@@ -38,12 +38,12 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates obcaecati eum, vitae facilis doloribus esse error.
-            Consequuntur explicabo facere, sit unde inventore nihil 
-            eligendi magnam sequi consectetur modi accusamus laborum?
+            I’m a 29 located in Romania I have a Bachelors in Interior Design and a Master’s degree in Architecture 
+            I always have a passion for programing and computers in general so 
+            I’m trying to mix my experience to make something artistic and functional.
           </p>
 
-          <a href="#conteact" className='btn'>Let't Talk</a>
+          <a href="#conteact" className='btn btn-primary'>Let't Talk</a>
         </div>
       </div>
     </section>
